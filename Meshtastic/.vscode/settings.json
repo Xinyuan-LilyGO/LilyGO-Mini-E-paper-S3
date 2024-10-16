@@ -1,0 +1,42 @@
+{
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "trunk.io",
+  "trunk.enableWindows": true,
+  "files.insertFinalNewline": false,
+  "files.trimFinalNewlines": false,
+  "cmake.configureOnOpen": false,
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "files.associations": {
+    "*.tcc": "cpp",
+    "*.tpp": "cpp",
+    "unordered_map": "cpp",
+    "fstream": "cpp",
+    "istream": "cpp",
+    "ostream": "cpp",
+    "sstream": "cpp",
+    "array": "cpp",
+    "deque": "cpp",
+    "list": "cpp",
+    "string": "cpp",
+    "unordered_set": "cpp",
+    "vector": "cpp",
+    "string_view": "cpp",
+    "memory": "cpp",
+    "random": "cpp",
+    "initializer_list": "cpp",
+    "chrono": "cpp",
+    "optional": "cpp",
+    "ratio": "cpp",
+    "system_error": "cpp",
+    "functional": "cpp",
+    "tuple": "cpp",
+    "type_traits": "cpp",
+    "utility": "cpp",
+    "*.xbm": "cpp",
+    "cmath": "cpp"
+  },
+  "Codegeex.RepoIndex": true,
+  "C_Cpp.errorSquiggles": "disabled"
+}
